@@ -1,4 +1,4 @@
-#Calculadora de partidas Ranqueadas
+# Calculadora de partidas Ranqueadas
 <br><br>
 **O que deve ser utilizado**<br>
 -Variáveis<br>
