@@ -18,8 +18,8 @@ Se vitórias for entre 51 e 80 = Ouro<br>
 Se vitórias for entre 81 e 90 = Diamante<br>
 Se vitórias for entre 91 e 100 = Lendário<br>
 Se vitórias for maior ou igual a 101 = Imortal<br>
-<br>
-## Saída
+
+## Saída:
 <br>
 Ao final deve se exibir uma mensagem:
 <br>
